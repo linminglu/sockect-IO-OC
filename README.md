@@ -3,7 +3,7 @@ sockect-IO,聊天,地球人都知道的
 
 请用于正规用途
 
- ![Aaron Swartz](https://github.com/NegHao/sockect-IO-OC/IMG_0757.PNG)
+ ![Aaron Swartz](https://github.com/NegHao/sockect-IO-OC/blob/master/IMG_0757.PNG)
  
 //
 //  
