@@ -2,6 +2,7 @@
 sockect-IO,聊天,地球人都知道的
 
 请用于正规用途
+ ![image](https://github.com/NegHao/sockect-IO-OC/IMG_0757.PNG)
 //
 //  
 //  NegHao
